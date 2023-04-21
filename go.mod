@@ -1,3 +1,3 @@
-module github.com/muhammadali07/go-ihsan
+module github.com/muhammadali07/ihsan-modules
 
 go 1.13
