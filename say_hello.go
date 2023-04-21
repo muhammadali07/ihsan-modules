@@ -1,5 +1,5 @@
 package go_say_hello
 
 func SayHello() string {
-	return "Welcome to Go-Lang Programming"
+	return "Welcome to Ihsan Module Go-Lang"
 }
